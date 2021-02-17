@@ -1,6 +1,6 @@
 # LeetCode
 ------
-  - [ ] Integer to Roman | [2] 
+  - [ ] Integer to Roman | ![2]
 
 
 [1]:🥉
