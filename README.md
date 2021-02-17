@@ -1,3 +1,8 @@
 # LeetCode
 ------
-  - [ ] Integer to Roman | [ Medium ]
+  - [ ] Integer to Roman | [Medium] 
+
+
+[Easy]:🥉
+[Medium]:🥈 
+[Hard]:🥇 
