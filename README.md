@@ -9,7 +9,12 @@
 
 - [X] Two Sum | Easy
 
-|Date| File |Status | Runtime | Memory | Language| 
-|---|---| ---| ---| ---| ---| 
-|25/02/2021|    | |	|	  |	  |
-02/25/2021 21:39	Accepted	44 ms	8.8 MB	cpp
+|Date| File |Status    | Runtime | Memory | Language| 
+|--- |---   | ---      | ---     | ---    | ---     | 
+| 30/04/2021   | Two_Sum_V1.cpp      | Accepted | 4 ms    |	8.8 MB |	  CPP  |
+
+## Ejecutar con Docker C++
+
+```
+# alias compilacpp='docker run --rm -v `pwd`:/tmp frolvlad/alpine-gxx c++ --static /tmp/$1 -o /tmp/${1%.cpp}'
+```
