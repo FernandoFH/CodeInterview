@@ -15,4 +15,7 @@
 
 - [X] Stack Js | Easy
 
-StackJS
+|Date| File | Language| 
+|--- |---   |  ---     | 
+| 30/09/2021   | ClassicalStack.js      | Js  |
+| 30/09/2021   | StackArray.js     | Js  |
