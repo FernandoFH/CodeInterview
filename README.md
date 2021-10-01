@@ -14,3 +14,5 @@
 | 30/04/2021   | Two_Sum_V1.cpp      | Accepted | 4 ms    |	8.8 MB |	  CPP  |
 
 - [X] Stack Js | Easy
+
+StackJS
