@@ -1,3 +1,5 @@
+import random
+
 def ordenamiento_por_insercion(lista):
 
     for indice in range(1, len(lista)):
