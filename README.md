@@ -19,3 +19,5 @@
 |--- |---   |  ---     | 
 | 30/09/2021   | ClassicalStack.js      | Js  |
 | 30/09/2021   | StackArray.js     | Js  |
+
+- Given an array and a number k that's smaller than the length of the array, rotate the array to the right k elements in-place.| Easy
