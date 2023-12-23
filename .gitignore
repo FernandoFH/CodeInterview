@@ -1,3 +1,4 @@
 *.vscode
 *.dSYM
 example
+*node_modules
