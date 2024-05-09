@@ -40,3 +40,4 @@ def fibonacci_recursiva_serie(n):
 # Ejemplo de uso
 # n = 10  # Cambia este valor para obtener más o menos términos de la serie
 # print(f"Serie de Fibonacci hasta el término {n}:", fibonacci_recursiva_serie(n))
+
