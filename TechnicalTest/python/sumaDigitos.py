@@ -3,7 +3,12 @@
 
 # Ejemplo: {123: 6}
 
-numbers = [123, 456, 789, 101, 202, 303]
+numbers = [123, -456, 789, 101, 202, 303]
+
+def absulute_values(numbers):
+    abs_numbers = [abs(num) for num in numbers]
+    return abs_numbers
+
 
 def sum_digits(number):
     total:int = 0
@@ -14,6 +19,8 @@ def sum_digits(number):
 
 def calculate_digit_sums(numbers):  
     sum_digits_dict = {}
+    numbers = absulute_values(numbers)
+
     for number in numbers:
         sum_digits_dict[number] = sum_digits(number)
     return sum_digits_dict
