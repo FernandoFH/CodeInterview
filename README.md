@@ -3,7 +3,7 @@
 
 ### System Design Prep
 
-    - [System Design Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+- [System Design Playlist](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 
 
 ### Technical Test
@@ -13,6 +13,8 @@
 - [Pyhton](./TechnicalTest/python/README.md) 
 
 - [Golang](./TechnicalTest/golang/README.md)
+
+- [Rust](./TechnicalTest/rust/README.md) 
 
 - [Haskell](./TechnicalTest/haskell/README.md)
 
