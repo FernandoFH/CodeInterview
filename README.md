@@ -8,6 +8,13 @@
 
 ### Technical Test
 
+- [CPP Moderno](./TechnicalTest/CppModern/README.md)
+
+- [Pyhton](./TechnicalTest/python/README.md) 
+
+- [Golang](./TechnicalTest/golang/README.md)
+
+- [Haskell](./TechnicalTest/haskell/README.md)
 
 _____
 
