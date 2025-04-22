@@ -1,4 +1,25 @@
-### A Tour of C++
+
+
+| Book               | Start | End | Repo | 
+| ------------------ | ------ | -- | -- |
+| A Tour of C++       | 22-04-25 | | [Repo](./Notes/ATourOfCpp.md)|
+
+
+C ++ 
+Data Structures and Algorithm Analysis
+https://people.cs.vt.edu/~shaffer/Book/C++3e20120102.pdf
+
+Effective Modern C++
+https://ia902804.us.archive.org/23/items/EffectiveModernC/Effective-Modern-C%2B%2B.pdf
+
+Thinking in C++, Volume 1, 2nd Edition
+https://micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-one-printed.pdf
+
+https://micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-printed.pdf
+
+Modern C++ Tutorial: C++11/14/17/20 On the Fly
+https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
+
 
 ### C++ Coding Standards: 101 Rules, Guidelines, and Best Practices
 
@@ -28,6 +49,8 @@
 
 ____
 (PACKT)
+
+C++ Memory Management: Write leaner and safer C++ code using proven memory-management techniques
 
 Hands-On Design Patterns with C++: Solve common C++ problems with modern design patterns and build robust applications
 
