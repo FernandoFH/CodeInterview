@@ -1,2 +1,4 @@
 
-Python | Golang | Js/Ts | C/C++ | Rust  
+Python | Golang | Js/Ts | C/C++ | Rust | Haskell
+
+

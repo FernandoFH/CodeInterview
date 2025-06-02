@@ -10,13 +10,13 @@
 
 - [CPP Moderno](./TechnicalTest/CppModern/README.md)
 
-- [Pyhton](./TechnicalTest/python/README.md) 
+- [Pyhton](./TechnicalTest/Python/README.md) 
 
-- [Golang](./TechnicalTest/golang/README.md)
+- [Golang](./TechnicalTest/Golang/README.md)
 
-- [Rust](./TechnicalTest/rust/README.md) 
+- [Rust](./TechnicalTest/Rust/README.md) 
 
-- [Haskell](./TechnicalTest/haskell/README.md)
+- [Haskell](./TechnicalTest/Haskell/README.md)
 
 _____
 
