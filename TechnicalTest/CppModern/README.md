@@ -2,14 +2,16 @@
 
 | Book               | Start | End | Repo | 
 | ------------------ | ------ | -- | -- |
-| A Tour of C++       | 22-04-25 | | [Repo](./Notes/ATourOfCpp.md)|
+| A Tour of C++       | 15-06-25 | | [Repo](./Notes/ATourOfCpp.md)|
 
 
-C ++ 
-Data Structures and Algorithm Analysis
+### Freecodecamp 
+- C++ Setup and Installation Tools – CMake, vcpkg, Docker & Copilot
+
+### Data Structures and Algorithm Analysis
 https://people.cs.vt.edu/~shaffer/Book/C++3e20120102.pdf
 
-Effective Modern C++
+### Effective Modern C++: 41 Specific Ways to Improve Your Use of C++11 and C++14
 https://ia902804.us.archive.org/23/items/EffectiveModernC/Effective-Modern-C%2B%2B.pdf
 
 Thinking in C++, Volume 1, 2nd Edition
@@ -20,12 +22,9 @@ https://micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-print
 Modern C++ Tutorial: C++11/14/17/20 On the Fly
 https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 
-
 ### C++ Coding Standards: 101 Rules, Guidelines, and Best Practices
 
 ### [Modern-CPP-Programming](https://federico-busato.github.io/Modern-CPP-Programming/)
-
-### Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
 
 ### Exceptional C++ Style: 40 New Engineering Puzzles, Programming Problems, and Solutions
 
