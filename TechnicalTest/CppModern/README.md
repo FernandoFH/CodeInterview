@@ -1,3 +1,73 @@
+# C++ Moderno
+
+[Curso CPP Moderno](https://www.youtube.com/playlist?list=PLEtcGQaT56ch7CfcboVPyN1Klnh7LwaRq)
+
+- C++ Moderno - C++ 11.
+- New version every 3 years.
+- A simple and direct mapping to hardware.
+- Zero-overhead adstraction mechanisms.
+
+- C++ is object-oriented and strongly typed.
+- All objects in C++ must have
+
+### C++ Dataypes
+
+- Built-in / Primitive
+  - Integer
+    - int
+    - char
+  - Floating
+    - float
+    - double
+  - Void
+- Derived
+  - Array
+  - Pointers
+  - References
+- User-Defined
+  - Structures
+  - Unions
+  - Clases
+  - Enumerations
+
+```
+struct Book {
+    char title;
+    char author;
+    char subject;
+}
+```
+
+POD Classes (Plain Old Data)
+
+- Data containers, they do not have functions.
+- Struct sets its members as public by default.
+
+Encapsulation
+
+- Data
+- Functions
+
+- Access Control
+  - Public
+  - Private
+  - Protected
+
+### Classes
+
+- Data -> Variables
+- Actions -> Methods
+- Permissions -> Access controls
+
+Constructors and Destructors
+
+- Special methods declared without a return type and with the same name as the class.
+- Object initialization
+- Enforces class invariants.
+- The destructor is executed automatically and is invoked with the
+
+/005/017/
+
 | Book          | Start    | End | Repo                                |
 | ------------- | -------- | --- | ----------------------------------- |
 | A Tour of C++ | 24-06-25 |     | [Repo](./RoadMapBook/ATourOfCpp.md) |
