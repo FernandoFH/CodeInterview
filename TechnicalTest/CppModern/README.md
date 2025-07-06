@@ -2,7 +2,7 @@
 
 [Curso CPP Moderno](https://www.youtube.com/playlist?list=PLEtcGQaT56ch7CfcboVPyN1Klnh7LwaRq)
 
-- C++ Moderno - C++ 11.
+- C++ Moderno / C++ 11.
 - New version every 3 years.
 - A simple and direct mapping to hardware.
 - Zero-overhead adstraction mechanisms.
@@ -64,13 +64,34 @@ Constructors and Destructors
 - Special methods declared without a return type and with the same name as the class.
 - Object initialization
 - Enforces class invariants.
-- The destructor is executed automatically and is invoked with the
+- The destructor is executed automatically and is invoked with the ~
 
-/005/017/
+### Pointers
 
-| Book          | Start    | End | Repo                                |
-| ------------- | -------- | --- | ----------------------------------- |
-| A Tour of C++ | 24-06-25 |     | [Repo](./RoadMapBook/ATourOfCpp.md) |
+- Low-level objects
+- Type of data stored
+- Assigned memory address
+- Unary address operator &
+- Unary dereference operator \*
+- Arrow operator ->
+  - Dereferences the pointer, like the \* operator
+  - Accesses the member of the pointed object that we specify.
+
+### References
+
+- A reference is declared using the &
+- We cannot create NULL references.
+- Once a reference is initialized, it cannot be changed to refer to another object.
+- A reference must be initialized when it
+
+Address Space Layout Randomization //
+
+/007/017/
+
+| Content                                      | Start    | End | Status        |
+| -------------------------------------------- | -------- | --- | ------------- |
+| [Curso CPP Moderno](#c-moderno)              | 06-07-25 |     | In Process 🟡 |
+| [A Tour of C++](./RoadMapBook/ATourOfCpp.md) | 06-07-25 |     | In Process 🟡 |
 
 ### Freecodecamp
 
