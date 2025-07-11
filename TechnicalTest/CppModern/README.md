@@ -84,9 +84,13 @@ Constructors and Destructors
 - Once a reference is initialized, it cannot be changed to refer to another object.
 - A reference must be initialized when it
 
+###
+
 Address Space Layout Randomization //
 
 /007/017/
+
+---
 
 | Content                                      | Start    | End | Status        |
 | -------------------------------------------- | -------- | --- | ------------- |
