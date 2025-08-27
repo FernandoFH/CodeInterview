@@ -1,22 +1,16 @@
-### Coding Interview Prep
+### Coding Interview University
 
-### System Design Prep
+- [Roadmap Coding Interview](https://github.com/FernandoFH/coding-interview-university)
 
-- [System Design - Gaurav Sen](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+- [Every programmer should know](https://github.com/FernandoFH/every-programmer-should-know)
 
-- [System Design Interview - Exponent](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
+- [Software Engineer BE Roadmap](https://github.com/FernandoFH/software-engineer-be-roadmap)
 
-### Technical Test
+### [Coding Interview Prep](./CodingInterview/README.md)
 
-- [CPP Moderno](./TechnicalTest/CppModern/README.md)
+### [System Design Prep](./SystemDesign/README.md)
 
-- [Pyhton](./TechnicalTest/Python/README.md)
-
-- [Golang](./TechnicalTest/Golang/README.md)
-
-- [Rust](./TechnicalTest/Rust/README.md)
-
-- [Haskell](./TechnicalTest/Haskell/README.md)
+### [Technical Test](./TechnicalTest/README.md)
 
 ---
 

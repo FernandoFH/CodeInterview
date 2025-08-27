@@ -84,18 +84,36 @@ Constructors and Destructors
 - Once a reference is initialized, it cannot be changed to refer to another object.
 - A reference must be initialized when it
 
-###
+### Object Lifecycle
 
-Address Space Layout Randomization //
+Object lifetime
 
-/007/017/
+-> Type
+-> Value
+
+- Assignment
+- Constructor
+- Object Lifetime
+- Usage
+- Finalization
+- Destructor
+- Deallocation
+
+  -> Type
+  -> Value
+
+### Runtime Polymorphism. Interfaces.
+
+Address Space Layout Randomization
+
+/009/017/
 
 ---
 
 | Content                                      | Start    | End | Status        |
 | -------------------------------------------- | -------- | --- | ------------- |
-| [Curso CPP Moderno](#c-moderno)              | 06-07-25 |     | In Process 🟡 |
-| [A Tour of C++](./RoadMapBook/ATourOfCpp.md) | 06-07-25 |     | In Process 🟡 |
+| [Curso CPP Moderno](#c-moderno)              | 26-08-25 |     | In Process 🟡 |
+| [A Tour of C++](./RoadMapBook/ATourOfCpp.md) | 26-08-25 |     | In Process 🟡 |
 
 ### Freecodecamp
 
