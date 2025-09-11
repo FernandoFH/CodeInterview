@@ -108,12 +108,14 @@ Address Space Layout Randomization
 
 /009/017/
 
+### [Complete Modern C++ (C++11/14/17) Specialization](https://www.coursera.org/specializations/packt-complete-modern-c-c-11-14-17)
+
 ---
 
 | Content                                      | Start    | End | Status        |
 | -------------------------------------------- | -------- | --- | ------------- |
 | [Curso CPP Moderno](#c-moderno)              | 26-08-25 |     | In Process 🟡 |
-| [A Tour of C++](./RoadMapBook/ATourOfCpp.md) | 26-08-25 |     | In Process 🟡 |
+| [A Tour of C++](./RoadMapBook/ATourOfCpp.md) | 10-09-25 |     | In Process 🟡 |
 
 ### Freecodecamp
 
