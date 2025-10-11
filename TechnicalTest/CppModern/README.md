@@ -11,7 +11,7 @@
 ### Data Structures and Algorithm Analysis
 https://people.cs.vt.edu/~shaffer/Book/C++3e20120102.pdf
 
-### Effective Modern C++: 41 Specific Ways to Improve Your Use of C++11 and C++14
+### Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
 https://ia902804.us.archive.org/23/items/EffectiveModernC/Effective-Modern-C%2B%2B.pdf
 
 Thinking in C++, Volume 1, 2nd Edition
