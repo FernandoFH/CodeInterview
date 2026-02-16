@@ -110,22 +110,23 @@ Address Space Layout Randomization
 
 ### [Complete Modern C++ (C++11/14/17) Specialization](https://www.coursera.org/specializations/packt-complete-modern-c-c-11-14-17)
 
+### (PACKT) C++ High Performance, Second Edition: Master the art of optimizing the functioning of your C++
+
+### (PACKT) Hands-On Design Patterns with C++: Solve common C++ problems with modern design patterns and build robust applications
+
 ---
 
-| Content                                      | Start    | End | Status        |
-| -------------------------------------------- | -------- | --- | ------------- |
-| [Curso CPP Moderno](#c-moderno)              | 26-08-25 |     | In Process 🟡 |
-| [A Tour of C++](./RoadMapBook/ATourOfCpp.md) | 10-09-25 |     | In Process 🟡 |
-
-### Freecodecamp
-
-- C++ Setup and Installation Tools – CMake, vcpkg, Docker & Copilot
+| Content                                         | Status        |
+| ----------------------------------------------- | ------------- |
+| [Curso CPP Moderno](#c-moderno)                 | In Process 🟡 |
+| [A Tour of C++](./RoadMapBook/00_ATourOfCpp.md) | In Process 🟡 |
 
 ### Data Structures and Algorithm Analysis
 
 https://people.cs.vt.edu/~shaffer/Book/C++3e20120102.pdf
 
-### Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14\n
+### Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
+
 https://ia902804.us.archive.org/23/items/EffectiveModernC/Effective-Modern-C%2B%2B.pdf
 
 Thinking in C++, Volume 1, 2nd Edition
@@ -136,7 +137,7 @@ https://micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-print
 Modern C++ Tutorial: C++11/14/17/20 On the Fly
 https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 
-### - C++ In-Depth Series
+## - C++ In-Depth Series
 
 ### Discovering Modern C++
 
@@ -170,6 +171,10 @@ https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 
 C++ Memory Management: Write leaner and safer C++ code using proven memory-management techniques
 
-Hands-On Design Patterns with C++: Solve common C++ problems with modern design patterns and build robust applications
+The C++ Programmer's Mindset: Learn computational, algorithmic, and systems thinking to become a better C++ programmer
 
-C++ High Performance, Second Edition: Master the art of optimizing the functioning of your C++
+- auto
+- STL
+- Package Manager
+- Error Messages
+- Backward Compatibility

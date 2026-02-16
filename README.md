@@ -4,7 +4,9 @@
 
 - [Every programmer should know](https://github.com/FernandoFH/every-programmer-should-know)
 
-- [Software Engineer BE Roadmap](https://github.com/FernandoFH/software-engineer-be-roadmap)
+- [Meta Back-End Developer](https://github.com/FernandoFH/BackEnd_Developer_Meta)
+
+- [Software Architect](https://github.com/FernandoFH/SoftwareArchitect/)
 
 ### [Coding Interview Prep](./CodingInterview/README.md)
 
