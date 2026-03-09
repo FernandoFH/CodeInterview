@@ -1,6 +1,6 @@
 ## A Tour of C++
 
-![Alt text](../../../Imgs/00_ATourOfCpp.png "A Tour Of Cpp")
+![Alt text](../../../Images/00_ATourOfCpp.png "A Tour Of Cpp")
 
 #### 1. The Basics
 

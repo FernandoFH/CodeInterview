@@ -106,13 +106,41 @@ Object lifetime
 
 Address Space Layout Randomization
 
-/009/017/
+### Polimofismo
+
+- Tiempo de Ejecución
+  - Interfaces
+  - Composition
+  - Herecia
+  - Virtual Functions
+
+- Tiempo de Compilación
+  - Templates
+
+### Interfaces
+
+- Abstract class: A class that contains at least one pure virtual function.
+- Pure virtual function: A virtual function that is declared by assigning 0 in its declaration.
+
+/010/017/
+
+- LeetCode
+  - 001 / 121 / 217
+  - 206 / 021 / 019
+  - 20 / 155 / 150
+  - 933 / 232 / 279
+  - 215 / 023 / 347
+  - 049 / 560
+  - 098 / 104 / 102
+  - 217 / 128 / 202 !!!
 
 ### [Complete Modern C++ (C++11/14/17) Specialization](https://www.coursera.org/specializations/packt-complete-modern-c-c-11-14-17)
 
 ### (PACKT) C++ High Performance, Second Edition: Master the art of optimizing the functioning of your C++
 
 ### (PACKT) Hands-On Design Patterns with C++: Solve common C++ problems with modern design patterns and build robust applications
+
+### Debunking C++ Myths
 
 ---
 
@@ -164,6 +192,12 @@ https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 ### Data Structure And Algorithms In C++ - Adam Drozdek
 
 ### Efective STL - Scott Meyers
+
+### Working Effectively with Legacy Code (Robert C. Martin Series)
+
+### Your Code as a Crime Scene: Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs (The Pragmatic Programmers)
+
+### Domain-Driven Design: Tackling Complexity in the Heart of Software
 
 ---
 

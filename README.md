@@ -18,8 +18,12 @@
 
 _Local Compiler:_
 
-g++ holaMundo.cpp -o holaMundo
+```bash
+g++ holaMundo.cpp -o holaMundo && ./holaMundo
+```
 
 _Formating Files Like Google:_
 
+```bash
 ~/.local/share/nvim/mason/bin/clang-format --style Google --dump-config > .clang-format
+```
