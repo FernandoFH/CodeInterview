@@ -122,7 +122,63 @@ Address Space Layout Randomization
 - Abstract class: A class that contains at least one pure virtual function.
 - Pure virtual function: A virtual function that is declared by assigning 0 in its declaration.
 
-/010/017/
+### Funciones Virtuales puras y Clases Abstractas
+
+- Palabra reservada virtual
+- Destructor virtual
+- Sufijo = 0
+- Herencia de la Clase Base
+- Palabra reservada override
+
+### Polimorfismo
+
+- Tiempo de Compilación
+  - Templates
+
+- Tiempo de Ejecución
+  - Interfaces
+
+### Sobrecargar el Operador New
+
+```Cpp
+void* operator new(size_t size) {
+    // Custom memory allocation logic
+    void* ptr = malloc(size);
+    if (!ptr) {
+        throw std::bad_alloc();
+    }
+    return ptr;
+}
+
+```
+
+### STL (Standard Template Library)
+
+- Contenedores
+- Iteradores
+- Algoritmos
+
+### Curso CPP AVANZADO
+
+[Playlist](https://www.youtube.com/playlist?list=PL8cp2fMJ9qLb9ITfBdsEHpqcN_mjo6CYg)
+
+---
+
+## Complete Modern C++ (C++11/14/17) Specialization
+
+#### [Specializations Coursera](https://www.coursera.org/programs/plan-bronce-2026-36k-75k11/specializations/packt-complete-modern-c-c-11-14-17?source=search) | Packt - Course Instructors
+
+1. [Foundations of Modern C++](#foundations-of-modern-c)
+2. [Advanced Object-Oriented & Generic Programming in C++](#advanced-object-oriented--generic-programming-in-c)
+3. [Modern C++ Features & Concurrency](#modern-c-features--concurrency)
+
+### Foundations of Modern C++
+
+### Advanced Object-Oriented & Generic Programming in C++
+
+### Modern C++ Features & Concurrency
+
+---
 
 - LeetCode
   - 001 / 121 / 217
@@ -134,20 +190,25 @@ Address Space Layout Randomization
   - 098 / 104 / 102
   - 217 / 128 / 202 !!!
 
-### [Complete Modern C++ (C++11/14/17) Specialization](https://www.coursera.org/specializations/packt-complete-modern-c-c-11-14-17)
-
 ### (PACKT) C++ High Performance, Second Edition: Master the art of optimizing the functioning of your C++
 
 ### (PACKT) Hands-On Design Patterns with C++: Solve common C++ problems with modern design patterns and build robust applications
 
-### Debunking C++ Myths
+### (PACKT) Debunking C++ Myths
 
 ---
 
-| Content                                         | Status        |
-| ----------------------------------------------- | ------------- |
-| [Curso CPP Moderno](#c-moderno)                 | In Process 🟡 |
-| [A Tour of C++](./RoadMapBook/00_ATourOfCpp.md) | In Process 🟡 |
+| Content                                                                                                         | Status        |
+| --------------------------------------------------------------------------------------------------------------- | ------------- |
+| [Curso CPP Moderno](#c-moderno)                                                                                 | In Process 🟡 |
+| [A Tour of C++](./RoadMapBook/00_ATourOfCpp.md)                                                                 | In Process 🟡 |
+| [Complete Modern C++ (C++11/14/17) Specialization](#complete-modern-c-c111417-specialization)                   |               |
+| 1. [Foundations of Modern C++](#foundations-of-modern-c)                                                        |               |
+| 2. [Advanced Object-Oriented & Generic Programming in C++](#advanced-object-oriented--generic-programming-in-c) |               |
+| 3. [Modern C++ Features & Concurrency](#modern-c-features--concurrency)                                         |               |
+| [C++ AVANZADO](#c-moderno)                                                                                      |               |
+
+### [Modern-CPP-Programming](https://federico-busato.github.io/Modern-CPP-Programming/)
 
 ### Data Structures and Algorithm Analysis
 
@@ -165,7 +226,7 @@ https://micc.unifi.it/bertini/download/programmazione/TICPP-2nd-ed-Vol-two-print
 Modern C++ Tutorial: C++11/14/17/20 On the Fly
 https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 
-## - C++ In-Depth Series
+## C++ In-Depth Series
 
 ### Discovering Modern C++
 
@@ -174,8 +235,6 @@ https://changkun.de/modern-cpp/pdf/modern-cpp-tutorial-en-us.pdf
 ### C++ Template Metaprogramming: Concepts, Tools, and Techniques from Boost and Beyond
 
 ---
-
-### [Modern-CPP-Programming](https://federico-busato.github.io/Modern-CPP-Programming/)
 
 ### Exceptional C++ Style: 40 New Engineering Puzzles, Programming Problems, and Solutions
 
@@ -207,7 +266,7 @@ C++ Memory Management: Write leaner and safer C++ code using proven memory-manag
 
 The C++ Programmer's Mindset: Learn computational, algorithmic, and systems thinking to become a better C++ programmer
 
-- auto
+- Auto
 - STL
 - Package Manager
 - Error Messages
