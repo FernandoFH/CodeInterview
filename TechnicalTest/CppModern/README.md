@@ -178,17 +178,16 @@ void* operator new(size_t size) {
 
 ### Modern C++ Features & Concurrency
 
----
+### LeetCode
 
-- LeetCode
-  - 001 / 121 / 217
-  - 206 / 021 / 019
-  - 20 / 155 / 150
-  - 933 / 232 / 279
-  - 215 / 023 / 347
-  - 049 / 560
-  - 098 / 104 / 102
-  - 217 / 128 / 202 !!!
+- 001 / 121 / 217
+- 206 / 021 / 019
+- 20 / 155 / 150
+- 933 / 232 / 279
+- 215 / 023 / 347
+- 049 / 560
+- 098 / 104 / 102
+- 217 / 128 / 202 !!!
 
 ### (PACKT) C++ High Performance, Second Edition: Master the art of optimizing the functioning of your C++
 
@@ -213,6 +212,21 @@ void* operator new(size_t size) {
 ### Data Structures and Algorithm Analysis
 
 https://people.cs.vt.edu/~shaffer/Book/C++3e20120102.pdf
+
+---
+
+### Descargas
+
+- A Tour of C++
+
+- Effective Modern C++
+- Object-Oriented Software Design in C++
+- C++ Software Design
+
+- C++ Network Programming - Volume 1
+- C++ Network Programming - Volume 2
+
+---
 
 ### Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
 
