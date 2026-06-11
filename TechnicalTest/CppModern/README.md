@@ -195,6 +195,8 @@ void* operator new(size_t size) {
 
 ### (PACKT) Debunking C++ Myths
 
+### (PACKT) Bare-Metal Embedded C Programming: Develop high-performance embedded systems with C for Arm microcontrollers
+
 ---
 
 | Content                                                                                                         | Status        |
@@ -207,24 +209,22 @@ void* operator new(size_t size) {
 | 3. [Modern C++ Features & Concurrency](#modern-c-features--concurrency)                                         |               |
 | [C++ AVANZADO](#c-moderno)                                                                                      |               |
 
+| Book                                        | Status        |
+| ------------------------------------------- | ------------- |
+| [A Tour of C++]()                           | In Process 🟡 |
+| [Effective Modern C++]()                    | In Process 🟡 |
+| [Object-Oriented Software Design in C+++]() | In Process 🟡 |
+| [C++ Software Design]()                     | In Process 🟡 |
+| [C++ Network Programming - Volume 1]()      | In Process 🟡 |
+| [C++ Network Programming - Volume 2]()      | In Process 🟡 |
+| [C++ High Performance]()                    | In Process 🟡 |
+| [Hands-On Design Patterns with C++]()       | In Process 🟡 |
+
 ### [Modern-CPP-Programming](https://federico-busato.github.io/Modern-CPP-Programming/)
 
 ### Data Structures and Algorithm Analysis
 
 https://people.cs.vt.edu/~shaffer/Book/C++3e20120102.pdf
-
----
-
-### Descargas
-
-- A Tour of C++
-
-- Effective Modern C++
-- Object-Oriented Software Design in C++
-- C++ Software Design
-
-- C++ Network Programming - Volume 1
-- C++ Network Programming - Volume 2
 
 ---
 
@@ -285,3 +285,41 @@ The C++ Programmer's Mindset: Learn computational, algorithmic, and systems thin
 - Package Manager
 - Error Messages
 - Backward Compatibility
+
+---
+
+Especialización en Lenguaje C y C++ (CODAERUS)
+50 horas académicas · Instructor: Christian Quispe Canchari
+Bloque 1 — Fundamentos C/C++
+
+Clase 1: Implementación — Tipos de lenguajes, RAM, CPU/GPU/TPU, diagrama de bloques, GCC y G++, memoria estática vs dinámica
+Clase 2: Tipos de datos — Enteros, flotantes, double, short; comparativa C vs C++; modificadores (short, long, signed)
+Clase 3: Operadores — E/S en C/C++, aritméticos, lógicos, relacionales
+Clase 4: Sentencias I — Diagramas de flujo, if, if-else, switch
+Clase 5: Punteros I — Dirección en memoria, declaración/inicialización, indirección, null y void, punteros a punteros
+Clase 6: Sentencias II — while, bucles cero iteraciones, centinelas, break, for, bucles infinitos
+Clase 7: Funciones I — Tipos de retorno, prototipo, parámetros, paso por valor/referencia, parámetros const
+Clase 8: Funciones II (offline)
+Clase 9: Arrays — Declaración, subíndices, almacenamiento en memoria, tamaño, rango, inicialización, multidimensionales
+Clase 10: Estructuras — Declaración, tamaño, acceso, anidadas, arrays de estructuras, uniones, enumeraciones
+Clase 11: Master Class — Integración — Punteros + funciones + arrays + estructuras, typedef, structs como argumentos vía punteros
+Clase 12: Memoria dinámica — Heap, malloc/realloc/free, new/delete, arrays dinámicos
+
+Bloque 2 — Sistemas embebidos y estructuras de datos
+
+Clase 13: Microcontroladores I — Intro, ESP32, C en ESP32, GPIO (encender LED)
+Clase 14: Microcontroladores II — Salidas/entradas digitales, parpadeo LED, lectura de pulsadores
+Clase 15: Cadenas (offline)
+Clase 16: Archivos (offline) — Puntero FILE, apertura/cierre, NULL y EOF, binarios, argumentos de main()
+Clase 17: Listas enlazadas — Nodos, cabecera/cola, construcción, doblemente enlazadas, circulares
+Clase 18: Pilas y colas — Implementación con arrays y con listas enlazadas
+Clase 19: Árboles — Binarios, BST, operaciones, algoritmos de exploración
+
+Bloque 3 — POO y GUI con Qt
+
+Clase 20: POO I — Paradigmas, objetos/clases/métodos/atributos, sobrecarga, constructor/destructor
+Clase 21: POO II y Qt I — Herencia, modificadores de acceso, puntero this, intro a Qt, POO en GUI
+Clase 22: POO III y Qt II — Botones, sliders, progressbar, señales y slots
+Clase 23: POO IV — Herencia múltiple, templates, encapsulamiento, clases amigas
+Clase 24: Comunicación serial — Recepción de datos analógicos, gráficos, envío desde Qt, comunicación bidireccional
+Clase 25: POO V — Polimorfismo, funciones virtuales, sobreescritura, punteros polimórficos, clases abstractas
