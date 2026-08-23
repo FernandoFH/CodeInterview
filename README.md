@@ -8,11 +8,11 @@
 
 - [Software Architect](https://github.com/FernandoFH/SoftwareArchitect/)
 
-### [Coding Interview Prep](./CodingInterview/README.md)
+### [Interview Prep](./InterviewPrep/README.md)
+
+### [Learning](./Learning/README.md)
 
 ### [System Design Prep](./SystemDesign/README.md)
-
-### [Technical Test](./TechnicalTest/README.md)
 
 ---
 

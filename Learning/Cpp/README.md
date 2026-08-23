@@ -209,6 +209,10 @@ void* operator new(size_t size) {
 | 3. [Modern C++ Features & Concurrency](#modern-c-features--concurrency)                                         |               |
 | [C++ AVANZADO](#c-moderno)                                                                                      |               |
 
+Writing Secure Code in C++ Specialization
+
+- https://www.coursera.org/organizations/centro-graduados/specializations/secure-code-c
+
 | Book                                        | Status        |
 | ------------------------------------------- | ------------- |
 | [A Tour of C++]()                           | In Process 🟡 |
@@ -225,6 +229,12 @@ void* operator new(size_t size) {
 ### Data Structures and Algorithm Analysis
 
 https://people.cs.vt.edu/~shaffer/Book/C++3e20120102.pdf
+
+---
+
+### Modernes Cpp
+
+https://www.modernescpp.com/index.php/table-of-content/
 
 ---
 
@@ -323,3 +333,9 @@ Clase 22: POO III y Qt II — Botones, sliders, progressbar, señales y slots
 Clase 23: POO IV — Herencia múltiple, templates, encapsulamiento, clases amigas
 Clase 24: Comunicación serial — Recepción de datos analógicos, gráficos, envío desde Qt, comunicación bidireccional
 Clase 25: POO V — Polimorfismo, funciones virtuales, sobreescritura, punteros polimórficos, clases abstractas
+
+Embedded C ++ Interview Questions
+https://www.youtube.com/watch?v=aSsKaKG43yE&list=PL3uLubnzL2Tn-EHL14y_SnmRPQjBs8hb0
+
+Master Embedded C++ Interviews
+https://www.youtube.com/playlist?list=PLs0W21hBB9a_f7YHjxTzC0zT0pneIBF1Q

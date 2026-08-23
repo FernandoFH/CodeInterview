@@ -3,6 +3,14 @@
 example
 *node_modules
 
+# Compiled binaries / executables (no versionar)
+mainApp
+*.out
+*.exe
+a.out
+hola
+Demos/mainApp
+
 dist
 dist-*
 cabal-dev
